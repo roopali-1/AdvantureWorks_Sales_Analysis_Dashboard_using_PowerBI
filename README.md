@@ -11,5 +11,5 @@
 - Design an interactive dashboard to visualize the data
 
 AdvantureWorks Sales Dashboard  
-![MusicDatabaseSchema](https://github.com/roopali-1/Music_Store_Analysis_using_SQL/blob/main/Database%20Schema.png)
+![Dashboard](https://github.com/roopali-1/AdvantureWorks_Sales_Analysis_Dashboard_using_PowerBI/blob/main/Dashboard.png)
 
